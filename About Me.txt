@@ -9,5 +9,9 @@ Boast a comprehensive understanding of software testing methodologies,
 coupled with an eagerness to expand knowledge and skills in a professional environment.
 
 Areas of expertise include: 
-Test Case Development | Agile – SCRUM Product Methodology | Software Development Life Cycle 
-| Software Testing Life Cycle | Defect Tracking an Resolution
+
+Test Case Development 
+Agile – SCRUM Product Methodology 
+Software Development Life Cycle 
+Software Testing Life Cycle 
+Defect Tracking an Resolution
